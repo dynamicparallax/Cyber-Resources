@@ -1,4 +1,5 @@
-# Cyber Podcasts listed by popularity.
+# Cyber Podcasts
+Welcome to your cyber security podcast guide listing the most popular cyber podcasts in order from top to n=bottom. Whether you can't get enough of them or just getting into them for the first time - you've come to the right place.
 | Podcast       | Description     | Link |
 | :------------ |:---------------:| -----:|
 | Darknet Diaries    | This is a podcast about hackers, breaches, shadow government activity, hacktivism, cybercrime, and all the things that dwell on the hidden parts of the network. This is Darknet Diaries. | https://darknetdiaries.com/ |
